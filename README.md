@@ -9,8 +9,7 @@ Plataforma web de tutorías en línea y presenciales. Conecta a estudiantes con 
 - Mendoza Ruidiaz Natalia
 - Cala Ardila Jhonny Gabriel
 - Henríquez de León Ricardo
-- Jairo
-
+-Jairo
 ## Funcionalidades
 
 **Acceso común**
@@ -49,32 +48,21 @@ El estudiante califica al tutor
 
 | Capa | Tecnología |
 |---|---|
-| Frontend | HTML, CSS (completar) |
+| Frontend | HTML, CSS y JavaScript |
 | Backend | (completar) |
 | Base de datos | PostgreSQL |
 
 ## Estructura del proyecto
 
-
-
 ```
 lumen/
 ├── frontend/
-    |-pages
-
+│   ├── pages/
+│   ├── js/
+│   ├── css/
+│   └── images/
 ├── backend/
-├── .env.
-|- .gitignore
+├── .env.example
+├── .gitignore
 └── README.md
 ```
-
-## Base de datos
-
-Modelo relacional en **PostgreSQL** con 12 tablas: `usuarios`, `tokens_recuperacion`, `perfiles_estudiante`, `perfiles_tutor`, `materias`, `tutor_materias`, `disponibilidad_tutor`, `solicitudes`, `ofertas`, `tutorias`, `resenas` y `notificaciones`.
-
-Incluye triggers para la reputación de los tutores y el cierre de ofertas al aceptar una, y vistas para las pantallas de solicitudes, ofertas y próximas tutorías.
-
-- Script SQL: [`database/lumen_schema.sql`](database/lumen_schema.sql)
-- Diagrama Entidad-Relación: [`database/lumen_modelo_ER.drawio`](database/lumen_modelo_ER.drawio)
-
-La conexión se configura con la variable `DATABASE_URL` (ver `.env.example`).
