@@ -6,9 +6,10 @@ Plataforma web de tutorías en línea y presenciales. Conecta a estudiantes con 
 
 ## Integrantes
 
-- Mendoza Ruiz Natalia
+- Mendoza Ruidiaz Natalia
 - Cala Ardila Jhonny Gabriel
 - Henríquez de León Ricardo
+- Jairo
 
 ## Funcionalidades
 
