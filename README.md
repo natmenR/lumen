@@ -11,7 +11,6 @@ Plataforma web de tutorías en línea y presenciales. Conecta a estudiantes con 
 - Mendoza Ruiz Natalia
 - Cala Ardila Jhonny Gabriel
 - Henríquez de León Ricardo
-- Jairo 
 
 ## Enlaces
 
