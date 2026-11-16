@@ -2,14 +2,11 @@
 
 Plataforma web de tutorías en línea y presenciales. Conecta a estudiantes con tutores calificados: el estudiante publica lo que necesita, los tutores le envían ofertas, él elige la mejor y la clase se realiza por videollamada integrada.
 
-**Aplicación en línea:** `PEGAR_URL_DEL_HOSTING`
+**Aplicación en línea:** https://lumen-s4be.onrender.com/
 
 ## Integrantes
 
 - Mendoza Ruidiaz Natalia
-- Cala Ardila Jhonny Gabriel
-- Henríquez de León Ricardo
--Jairo
 ## Funcionalidades
 
 **Acceso común**
